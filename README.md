@@ -1,0 +1,3 @@
+# PythonPractice
+
+practice python codes
